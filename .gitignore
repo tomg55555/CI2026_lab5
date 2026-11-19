@@ -1,0 +1,9 @@
+/slides/
+/theory/
+
+/.venv/
+/.idea/
+/.ruff_cache/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
